@@ -6,7 +6,7 @@ This is counter app, increment and decrement counter
 
 ## Demo
 
-https://abhimanyusingh02.github.io/counterapp/
+https://abhimanyusingh02.github.io/Counter-app-master/
 
 
 ### How to use
